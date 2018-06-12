@@ -1,8 +1,0 @@
-
-
-VCS (version control system)
-    1.mercurial 
-    2.git
-    3.svn
-
-git clone URL
